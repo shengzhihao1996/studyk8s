@@ -1,7 +1,6 @@
-
-# studyk8s
-data
-├── lesson-10
+ ```studyk8s
+```data
+```├── lesson-10
 │   ├── redis-headless.yaml
 │   └── redis-svc.yaml
 ├── lesson-11
