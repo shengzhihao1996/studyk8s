@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # studyk8s
 data
 ├── lesson-10
