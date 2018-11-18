@@ -112,8 +112,3 @@ data
 └── lesson-9
     ├── myapp-deploy.yaml
     └── myapp-ds.yaml
-=======
-studyk8s
-有道笔记分享：
-    https://note.youdao.com/share/?id=3069bf95160b805bbbb2f19e9f0c915b&type=note#/
->>>>>>> 3ffdf4684e43167f53feaf0e8437265e7a06aaf3
