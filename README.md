@@ -1,4 +1,6 @@
-```studyk8s
+studyk8s
+====
+```
 data
 ├── lesson-10
 │   ├── redis-headless.yaml
