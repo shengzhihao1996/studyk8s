@@ -1,0 +1,15 @@
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: allow-allpv-somepod
+  namespace: default
+spec:
+  podSelector:
+     matchLabels:
+       c: c
+  ingress:
+  - from:
+    - ipBlock:
+        cidr: 10.244.0.0/32
+  egress: 
+  - {}

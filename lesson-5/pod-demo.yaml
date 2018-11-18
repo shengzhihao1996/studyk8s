@@ -8,8 +8,6 @@ metadata:
     tier: frontend
 spec:
   containers:
-    - name: myapp 
-      image: ikubernetes/myapp:v1
     - name: busybox
       image: busybox:latest
       command:
